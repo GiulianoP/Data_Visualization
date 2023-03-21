@@ -1,0 +1,48 @@
+
+var ftGUID_4200892="511226B38132ED";
+var ftConfID_4200892="0";
+var ftParams_4200892="ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fa5795dcb8f46991675251d2c0cb2945e.safeframe.googlesyndication.com%2Fsafeframe%2F1-0-38%2Fhtml%2Fcontainer.html&gdpr=0&us_privacy=${US_PRIVACY}&cachebuster=907478.6895249551&ft_dv=%5B%25ft_dv%25%5D";
+var ftKeyword_4200892="";
+var ftCustom_4200892="";
+var ftSection_4200892="";
+var ftSegment_4200892="aiia,aixd";
+var ftSegmentList_4200892=[{s:'aiia'},{s:'aixd'}];
+var ftRuleMatch_4200892="0";
+var ftTimestamp_4200892="1666468414";
+var ftGeoC2_4200892="ar";
+var ftGeoState_4200892="c";
+var ftGeoCity_4200892="buenos aires";
+var ftISP_4200892="claro argentina";
+var ftSpeed_4200892="mobile";
+var ftDMA_4200892="-1";
+var ftLong_4200892="-58.42";
+var ftLat_4200892="-34.61";
+var ftPostal_4200892="c1206 abe";
+var ftTimeZone_4200892="-300";
+var ftMobileCarrier_4200892="claro";
+var ftImp4200892 = {};
+ftImp4200892.privacy = "x";
+ftImp4200892.guidAge = "296";
+ftImp4200892.impID = "6DFFE35C-2D5B-0B3B-E2E7-B8E77309660B";
+ftImp4200892.duid = "FT:511226B38132ED";
+
+ftImp4200892.ft_tpplid = "";
+ftImp4200892.ft_c = {};
+ftImp4200892.gdpr = "0";
+ftImp4200892.gdpr_consent = "";
+ftImp4200892.gdpr_pd = "";
+ftImp4200892.oob_consent = "";
+ftImp4200892.gdprStoredConsent = "";
+ftImp4200892.us_privacy = "!!US_PRIVACY!";
+
+ftImp4200892.jsAppend = "1";
+(function(){
+    var tag = document.getElementById('ft_servedby_4200892') || (function(s){
+    	return s[s.length-1];
+    }(document.getElementsByTagName('script'))),
+           js = document.createElement('script');
+    js.src =
+"https://cdn.flashtalking.com/xre/420/4200892/3870859/js/j-4200892-3870859.js";
+    js.id = "ftscript_m4200892";
+    tag.parentNode.insertBefore(js, tag);
+}());
